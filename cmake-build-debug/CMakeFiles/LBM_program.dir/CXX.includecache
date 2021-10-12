@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/0github/LBM-program/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+cmath
+-
+sstream
+-
+iomanip
+-
+string
+-
+ctime
+-
+
